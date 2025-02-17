@@ -5,7 +5,7 @@ const products = [
     "price": 600,
     "description": "A friendly and intelligent puppy, perfect for families. Loves to play and is great with kids.",
     "category": "Dogs",
-    "image": "/assets/Golden Retriever Puppy.jpg",
+    "image": "https://unsplash.com/photos/portrait-of-an-adorable-golden-retriever-puppy-studio-shot-isolated-on-black-yRYCnnQASnc",
     "rating": {
       "rate": 4.8,
       "count": 150
